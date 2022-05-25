@@ -3,6 +3,9 @@
 - 🌱 Atualmente estou aprendendo programação em diversas linguagens.
 - 💞️ Estou procurando colaborar em diversos projetos dentro da area de programaçao.
 - 📫 Como me encontrar:
+- Serviço de Atendimento ao Cliente:
+- Ouvidoria:
+- Funcionamento: De segunda a sexta feira das 06:00 as 21:00 e sabados das 08:00 as 16:00
 - Contatos e endereço:
 - Em breve
 
