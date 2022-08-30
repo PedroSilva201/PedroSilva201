@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou @ PedroSilva201
-- 👀 Estou interessado em programaçao. 
+- 👀 Estou esforçando em trabalhos de programaçao para me apefeiçoa-los. 
 - 🌱 Atualmente estou aprendendo programação em diversas linguagens.
 - 💞️ Estou procurando colaborar em diversos projetos dentro da area de programaçao.
 - 📫 Como me encontrar:
