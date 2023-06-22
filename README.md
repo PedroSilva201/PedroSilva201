@@ -8,6 +8,7 @@
 - Serviço de Atendimento ao Cliente:
 - Ouvidoria:
 - Você poderá utilizar pelos seguintes meios abaixo:
+- Pelos e-mails abaixo
 - silvapedro.tome@gmail.com
 - 13pedro.tome@gmail.com
 - pedroreginaldotomesilva@gmail.com
