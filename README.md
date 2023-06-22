@@ -4,6 +4,7 @@
 - Atualmente estou concluindo o curso de Analise e Desenvolvimento de Sistemas da FATEC Professor Jessen Vidal de Sao José dos Campos
 - Tambem realizo trabalho de iniciação cientifica (estagio) na Tecsus Tecnologias para a sustatenbilidade 
 - Estou procurando colaborar em diversos projetos dentro da area de programaçao, nos mais variados ambientes de trabalho (back-end, front-end e banco de dados) desenvolvidos por mim mesmo ou, nas salas de aula ou nos cursos.
+- Ajudar os outros e ser ajudado é a maior missão que possui.
 # Como me encontrar:
 - Serviço de Atendimento ao Cliente:
 - Ouvidoria:
