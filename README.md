@@ -14,7 +14,7 @@
 - 13pedro.tome@gmail.com
 - pedroreginaldotomesilva@gmail.com
 - No meu Linkedin poderá seguir em <a href="https://www.linkedin.com/in/pedro-silva-18720b236/">Pedro Silva</a>
-- Você poderá encontrar tambem no <a href="pedrorts">Discord</a>
+- Você poderá encontrar tambem no Discord pelo Pedro RTS.
 
 
 
