@@ -2,7 +2,7 @@
 # Olá, Bem vindo, eu sou <a href="https://github.com/PedroSilva201">Pedro</a>
 - Estou esforçando em trabalhos de programação para me apefeiçoa-los. 
 - Atualmente estou concluindo o curso de Analise e Desenvolvimento de Sistemas da FATEC Professor Jessen Vidal de Sao José dos Campos
-- Tambem realizo trabalho de iniciação cientifica (estagio) na Tecsus Tecnologias para a sustatenbilidade 
+- Realizei trabalho de iniciação cientifica (estágio) na TECSUS Tecnologias para a Sustatenbilidade S/A entre os meses de Agosto de 2022 e Março de 2024.
 - Estou procurando colaborar em diversos projetos dentro da area de programaçao, nos mais variados ambientes de trabalho (back-end, front-end e banco de dados) desenvolvidos por mim mesmo ou, nas salas de aula ou nos cursos.
 - Ajudar os outros e ser ajudado é a maior missão que possui.
 # Como me encontrar:
