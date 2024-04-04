@@ -16,6 +16,7 @@
 - No meu Linkedin poderá seguir em <a href="https://www.linkedin.com/in/pedro-silva-18720b236/">Pedro Silva</a>
 - <a href="http://lattes.cnpq.br/8665136131282446">Tambem possuo curriculo na página do CNPQ</a>
 - Você poderá encontrar tambem no Discord pelo Pedro RTS. <a href="https://discord.com/channels/@me">AQUI</a>
+- A novidade que você poderá me encontrar tambem no Slack com este contato: Pedro Reginaldo Tome Silva.
 
 
 
