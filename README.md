@@ -1,8 +1,8 @@
 
-# Olá, Bem vindo, eu sou <a href="https://github.com/PedroSilva201">Pedro</a>
-- Estou esforçando em trabalhos de programação para me apefeiçoa-los. 
+# Olá, Bem vindo, prazer, eu sou <a href="https://github.com/PedroSilva201">Pedro</a>
+- Sou desenvolvedor full-stack e trabalho com diversas linguagens de programação como Python, Java, Javascript, Typescript, Angular, Ruby, R, GO e entre outras linguagens além de SQL, Segurança, Front-end, incluindo UI/UX e Inteligencia artificial com dominio em diversas IAS generativas como ChatGPT, Google Gemini, Claude, DeepSeek, Micrososft Copolit e entre outros.
 - Atualmente estou buscando recolocação no mercado de trabalho dentro da área de tecnologia da informação.
-- Conclui o curso de Analise e Desenvolvimento de Sistemas da FATEC Professor Jessen Vidal de Sao José dos Campos em Julho de 2023.
+- Formei no curso de Analise e Desenvolvimento de Sistemas da FATEC Professor Jessen Vidal de Sao José dos Campos em Julho de 2023.
 - Realizei trabalho de iniciação cientifica (estágio) na TECSUS Tecnologias para a Sustatenbilidade S/A entre os meses de Agosto de 2022 e Março de 2024.
 - Estou procurando colaborar em diversos projetos dentro da area de programaçao, nos mais variados ambientes de trabalho (back-end, front-end, banco de dados, segurança da informação, gestão de projetos e de governança, interligencia artificial, estrututa de dados, matemática e entre outros) desenvolvidos por mim mesmo ou, nas salas de aula ou nos cursos.
 - Ajudar os outros e ser ajudado é a maior missão que possui.
@@ -17,6 +17,7 @@
 - No meu Linkedin poderá seguir em <a href="https://www.linkedin.com/in/pedro-silva-18720b236/">Pedro Silva</a>
 - <a href="http://lattes.cnpq.br/8665136131282446">Tambem possuo curriculo na página do CNPQ</a>
 - Você poderá encontrar tambem no Discord pelo Pedro RTS. <a href="https://discord.com/channels/@me">AQUI</a>
+- Terei um site em breve e o mesmo será apresentado nesta semana.
 - A novidade que você poderá me encontrar tambem no Slack com este contato: Pedro Reginaldo Tome Silva.
 - Agora tenho meu próprio site que é este <a href="https://pedrosilva201.github.io/">onde poderá ser visualisado aqui></a>
 
