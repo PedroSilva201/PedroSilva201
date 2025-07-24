@@ -19,7 +19,7 @@
 - Você poderá encontrar tambem no Discord pelo Pedro RTS. <a href="https://discord.com/channels/@me">AQUI</a>
 - Terei um site em breve e o mesmo será apresentado nesta semana.
 - A novidade que você poderá me encontrar tambem no Slack com este contato: Pedro Reginaldo Tome Silva.
-- Agora tenho meu próprio site que é este <a href="https://pedrosilva201.github.io/">onde poderá ser visualisado aqui></a>
+- Agora tenho meu próprio portifólio que é este <a href="https://pedrosilva201.github.io/">onde poderá ser visualisado aqui</a> o meu site será lançado em breve e será divulgado aqui nestes canais.
 
 
 <!---
