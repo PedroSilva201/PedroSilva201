@@ -16,6 +16,7 @@
 - pedroreginaldotomesilva@gmail.com
 - No meu Linkedin poderá seguir em <a href="https://www.linkedin.com/in/pedro-silva-18720b236/">Pedro Silva</a>
 - <a href="http://lattes.cnpq.br/8665136131282446">Tambem possuo curriculo na página do CNPQ</a>
+- Você pode me encontrar tambem aqui pelo Skype/Teams <a href="https://teams.live.com/l/invite/FAAhXN57SM_JkVjKQQ"> Seguindo aqui</a>
 - Você poderá encontrar tambem no Discord pelo Pedro RTS. <a href="https://discord.com/channels/@me">AQUI</a>
 - Terei um site em breve e o mesmo será apresentado nesta semana.
 - A novidade que você poderá me encontrar tambem no Slack com este contato: Pedro Reginaldo Tome Silva.
