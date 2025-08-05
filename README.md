@@ -1,5 +1,26 @@
 # Olá! 👋 Eu sou o Pedro
 Desenvolvedor Full Stack apaixonado por tecnologia, com experiência em diversas linguagens e áreas como IA, segurança e ciência de dados.
+🎓 Formado em Análise e Desenvolvimento de Sistemas (FATEC/SJC - 2023)  
+🔍 Em busca de recolocação no mercado de TI  
+💡 Interesses: Programação Full Stack, Inteligência Artificial, DevOps, Segurança, Ciência de Dados, Matemática Aplicada e mais.
+💻 Estágio em Iniciação Científica na TECSUS (2022–2024)  
+🛠️ Desenvolvendo projetos próprios com foco em IA generativa, banco de dados e interfaces web.
+🔧 Linguagens: Python, Java, JavaScript, TypeScript, Go, R, Ruby, SQL  
+🌐 Front-end: HTML, CSS, Angular, UI/UX  
+📦 Back-end: Node.js, Flask, Express, APIs REST  
+🛡️ Segurança da Informação | 🧠 Inteligência Artificial | 📊 Power BI | 📁 Git & GitHub
+📫 Como me encontrar:
+
+- 📧 Email: silvapedro.tome@gmail.com  
+- 💼 [LinkedIn](https://linkedin.com/in/seu-usuario)  
+- 🌐 Portfólio (em breve)  
+- 🧠 CNPq: Currículo Lattes  
+- 🗣️ Discord: Pedro RTS  
+- 📎 Slack: Pedro Reginaldo Tomé Silva
+"Ajudar os outros e ser ajudado é a maior missão que possuo."  
+🚀 Sempre pronto para aprender, ensinar e colaborar.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroSilva201&show_icons=true&theme=dracula)
+
 
 # Olá, Bem vindo, prazer, eu sou <a href="https://github.com/PedroSilva201">Pedro</a>
 - Sou desenvolvedor full-stack e trabalho com diversas linguagens de programação como Python, Java, Javascript, Typescript, Angular, Ruby, R, GO e entre outras linguagens além de SQL, Segurança, Front-end, incluindo UI/UX e Inteligencia artificial com dominio em diversas IAS generativas como ChatGPT, Google Gemini, Claude, DeepSeek, Micrososft Copolit e entre outros.
