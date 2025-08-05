@@ -1,3 +1,5 @@
+# Olá! 👋 Eu sou o Pedro
+Desenvolvedor Full Stack apaixonado por tecnologia, com experiência em diversas linguagens e áreas como IA, segurança e ciência de dados.
 
 # Olá, Bem vindo, prazer, eu sou <a href="https://github.com/PedroSilva201">Pedro</a>
 - Sou desenvolvedor full-stack e trabalho com diversas linguagens de programação como Python, Java, Javascript, Typescript, Angular, Ruby, R, GO e entre outras linguagens além de SQL, Segurança, Front-end, incluindo UI/UX e Inteligencia artificial com dominio em diversas IAS generativas como ChatGPT, Google Gemini, Claude, DeepSeek, Micrososft Copolit e entre outros.
