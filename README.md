@@ -21,6 +21,13 @@ Desenvolvedor Full Stack apaixonado por tecnologia, com experiência em diversas
 🚀 Sempre pronto para aprender, ensinar e colaborar.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroSilva201&show_icons=true&theme=dracula)
 
+https://github-readme-stats.vercel.app/api?username=PedroSilva201&show_icons=true&theme=dracula
+![Estatísticas do GitHub de Pedro](https://github-readme-stats.vercel.app/api?username=PedroSilva201&show_icons=true&theme=dracula)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSilva201&layout=compact&theme=dracula)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroSilva201&show_icons=true&theme=dracula" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSilva201&layout=compact&theme=dracula" width="48%" />
+</p>
 
 # Olá, Bem vindo, prazer, eu sou <a href="https://github.com/PedroSilva201">Pedro</a>
 - Sou desenvolvedor full-stack e trabalho com diversas linguagens de programação como Python, Java, Javascript, Typescript, Angular, Ruby, R, GO e entre outras linguagens além de SQL, Segurança, Front-end, incluindo UI/UX e Inteligencia artificial com dominio em diversas IAS generativas como ChatGPT, Google Gemini, Claude, DeepSeek, Micrososft Copolit e entre outros.
