@@ -36,10 +36,10 @@ Desenvolvedor Full Stack apaixonado por tecnologia, com experiência em diversas
 # Destaques 
 
 ## Meus Próximos Passos
-- Tenho pretenção de voltar ao mundo academico realizado um mestrado
-- Estou aprendendo diversas linguagens de programação bem como o desenvolvimento de projetos particulares para poder retornar ao mercado de trabalho.
-- Além disso outros entenddimentos e conceitos sobre tecnologia estão sendo aprimorados neste momento.
-- Contudo as mudanças podem forçar a eu traçar novos planos.
+- Pretendo retornar ao meio acadêmico por meio de um mestrado.
+- Estou aprendendo novas linguagens de programação e desenvolvendo projetos próprios com foco em recolocação no mercado de trabalho.
+- Também estou aprimorando conhecimentos em diversas áreas da tecnologia e fora dela, onde a mesma poderá ser utilizado.
+- No entanto, reconheço que mudanças podem exigir a revisão e adaptação dos meus planos futuros.
   
 ## Linha do Tempo sobre mim no Github
 - Criação da conta em 02 de Julho de 2020
@@ -47,9 +47,9 @@ Desenvolvedor Full Stack apaixonado por tecnologia, com experiência em diversas
 - Primeiro Commit em 25 de Março de 2021
 - Tambem no mesmo dia primeira participação em projeto coletivo, o LMS APP, do API do 3º Semestre de 2021.
 - Primeiro Repositório com código em 29 de Março de 2021 com o POOC-L1 em Java na disciplina de Porgramação Orientada a Objetos, do 3º Periodo feito com base no video do professor Gerson.
-- Ao decorrer do curso, comecei a participar com mais enfase de projetos coletivos a partir do segundo semestre, mas apenas no ano de 2021 isso ficou mais viavel.
-- Em 2023 foi o ano de maior numero de contrubuições, isso se deve principalmente a reta final da faculdade e os projetos de capacitação na empresa onde ue trabalhei.
-- Agora o mesmo está passando por uma reestruturação completa com a documentação em todos os gits.
+- Ao decorrer do curso, comecei a participar com mais enfase de projetos coletivos a partir do segundo semestre de 2020, mas apenas no ano de 2021 isso ficou mais viavel.
+- Em 2023 foi o ano de maior numero de contrubuições, isso se deve principalmente a reta final da faculdade e os projetos de capacitação na empresa onde atuei.
+- Atualmente o mesmo está passando por uma reestruturação completa em todos os meus perfils.
 
 ### DADOS POR ANO
 - Em 2020 foram apenas 2 contribuições ao todo
@@ -58,6 +58,13 @@ Desenvolvedor Full Stack apaixonado por tecnologia, com experiência em diversas
 - Em 2023 foram 453 contribuições ao todo
 - Em 2024 foram 298 contribuições ao todo
 - Em 2025 foram 287 contribuições ao todo (Com os dados baseados até o momento da edição do README em 06 de Agosto as 09:19:00)
+
+### OUTROS DESTAQUES
+- Pair Extraordinaire Obtido em 01º de Setembro de 2022 com o Softtelie EhSoja (Projeto Coletivo).
+- Pull Shark Obtido em 12 de Setembro de 2022 com o Softtelie EhSoja (Projeto Coletivo).
+- Quickdraw Obtido em 17 de Junho de 2025 com o Dataset de Imoveis Junho de 2013.
+- Tenho 26 seguidores e sigo 24 pessoas ao todo, os numeros poderão subir em breve.
+- Participei de duas organizações, o Projeto de Estrutura de Dados em 2021 e o DevsIsland em 2023, ambos projetos de faculdade.
   
 ## Destaques de projetos estrelados
 Aqui serão apresentados alguns projetos em destaque, para este critério foram selecionados apenas os projetos que tiveram estrelas por parte de colegas e visitantes na minha página
