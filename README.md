@@ -45,6 +45,7 @@ Desenvolvedor Full Stack apaixonado por tecnologia, com experiência em diversas
   <img src="https://github-readme-stats.vercel.app/api?username=PedroSilva201&show_icons=true&theme=dracula" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSilva201&layout=compact&theme=dracula" width="48%" />
 </p>
+![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)
 
 # Destaques 
   
@@ -74,19 +75,19 @@ Assim como o projeto do método HTTPS, o mesmo embora seja montado em linguagen 
 
 <a href="https://github.com/PedroSilva201/API-4-Semestre">API 4º Semestre de 2023</a> 1 Estrela
 
-O projeto neste caso consistiu em desenvolver uma aplicação na área de saúde com o intuito de organizar melhor as ocorrencias de acordo com os grauus de ocorrencia.
+O projeto neste caso consistiu em desenvolver uma aplicação na área de saúde com o intuito de organizar melhor as ocorrências de acordo com os graus de ocorrencia.
 
-Observação: Não são levados em conta os projetos onde eu dei estrela nos mesmos, os critérios foram basedos com base na página principal do meu perfil dentro do Git.
+Observação: Não são levados em conta os projetos onde eu dei estrela nos mesmos, os critérios foram basedos na página principal do meu perfil dentro do Git.
 
 ## Linha do Tempo sobre mim no Github
 - Criação da conta em 02 de Julho de 2020
 - Primeiro Repositório em 15 de Outubro de 2020
 - Primeiro Commit em 25 de Março de 2021
 - Tambem no mesmo dia primeira participação em projeto coletivo, o LMS APP, do API do 3º Semestre de 2021.
-- Primeiro Repositório com código em 29 de Março de 2021 com o POOC-L1 em Java na disciplina de Porgramação Orientada a Objetos, do 3º Periodo feito com base no video do professor Gerson.
-- Ao decorrer do curso, comecei a participar com mais enfase de projetos coletivos a partir do segundo semestre de 2020, mas apenas no ano de 2021 isso ficou mais viavel.
+- Primeiro Repositório com código em 29 de Março de 2021 com o POOC-L1 em Java na disciplina de Programação Orientada a Objetos, do 3º Periodo feito com base no video do professor Gerson.
+- Ao decorrer do curso, comecei a participar com mais ênfase de projetos coletivos a partir do segundo semestre de 2020, mas apenas no ano de 2021 isso ficou mais viavel.
 - Em 2023 foi o ano de maior numero de contrubuições, isso se deve principalmente a reta final da faculdade e os projetos de capacitação na empresa onde atuei.
-- Atualmente o mesmo está passando por uma reestruturação completa em todos os meus perfils.
+- Atualmente o mesmo está passando por uma reestruturação completa em todos os meus perfis.
 
 ### DADOS POR ANO
 - Em 2020 foram apenas 2 contribuições ao todo
@@ -103,7 +104,7 @@ Observação: Não são levados em conta os projetos onde eu dei estrela nos mes
 - Tenho 26 seguidores e sigo 24 pessoas ao todo, os numeros poderão subir em breve.
 - Participei de duas organizações, o Projeto de Estrutura de Dados em 2021 e o DevsIsland em 2023, ambos projetos de faculdade.
 ## Meus Próximos Passos
-- Pretendo retornar ao meio acadêmico por meio de um mestrado.
+- Pretendo iniciar um mestrado em breve, com foco relacionado a minha área..
 - Estou aprendendo novas linguagens de programação e desenvolvendo projetos próprios com foco em recolocação no mercado de trabalho.
 - Também estou aprimorando conhecimentos em diversas áreas da tecnologia e fora dela, onde a mesma poderá ser utilizado.
 - No entanto, reconheço que mudanças podem exigir a revisão e adaptação dos meus planos futuros.
@@ -117,7 +118,7 @@ Observação: Não são levados em conta os projetos onde eu dei estrela nos mes
 
 - 📧 Email: silvapedro.tome@gmail.com  
 - 💼 <a href="https://www.linkedin.com/in/pedro-silva-18720b236/">LikedIn</a>
-- 🌐 <a href="https://pedrosilva201.github.io/">Portifólio</a>
+- 🌐 <a href="https://pedrosilva201.github.io/">Portfólio</a>
 - 🧠 <a href="http://lattes.cnpq.br/8665136131282446">CNPq: Currículo Lattes</a> 
 - 🗣️ <a href="https://discord.com/channels/@me">Discord</a>
 - 📧 <a href="https://teams.live.com/l/invite/FAAhXN57SM_JkVjKQQ">Microsoft Teams/Skipe</a>
