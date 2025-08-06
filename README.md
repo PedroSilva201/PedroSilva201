@@ -46,8 +46,6 @@ Desenvolvedor Full Stack apaixonado por tecnologia, com experiência em diversas
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSilva201&layout=compact&theme=dracula" width="48%" />
 </p>
 
-![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)
-
 # Destaques 
   
 ## Destaques de projetos estrelados
@@ -109,11 +107,19 @@ Observação: Não são levados em conta os projetos onde eu dei estrela nos mes
 - Estou aprendendo novas linguagens de programação e desenvolvendo projetos próprios com foco em recolocação no mercado de trabalho.
 - Também estou aprimorando conhecimentos em diversas áreas da tecnologia e fora dela, onde a mesma poderá ser utilizado.
 - No entanto, reconheço que mudanças podem exigir a revisão e adaptação dos meus planos futuros.
+  
 ## 🌱 Fora do Código...
 
-📚 Gosto de estudar história e comportamento humano.  
-🎨 Tenho interesse em design e em como a estética influencia a experiência digital.  
-🤝 Valorizo o trabalho colaborativo e acredito que tecnologia deve ser usada para facilitar a vida, não complicar.
+- Utilizo os chats para poder entender os fatos cotidianos sobre os diferentes assuntos.
+- Gosto de fotografia.
+- Tenho forte conhecimento por estudos em exatas, humanas e principalmente matemática.
+- Veiculos em geral.
+- Moda, em especial calçados.
+- Meio Ambiente.
+- Ensinar aos outros aquilo que aprendi.
+- Escrever histórias sobre o que ocorreu comigo.
+- Jogos de tabuleiros em geral.
+- Musica classica e trilhas sonoras, as vezes podendo escutar algum genero diferente, em especial Rock.
 
 📫 Como me encontrar:
 
