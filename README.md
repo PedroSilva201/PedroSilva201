@@ -112,7 +112,7 @@ Observação: Não são levados em conta os projetos onde eu dei estrela nos mes
 
 - Utilizo os chats para poder entender os fatos cotidianos sobre os diferentes assuntos.
 - Gosto de fotografia.
-- Tenho forte conhecimento por estudos em exatas, humanas e principalmente matemática.
+- Tenho forte conhecimento por estudos em exatas, humanas e principalmente matemática, além de artes e educação fisica principalmente voltada ao esporte.
 - Veiculos em geral.
 - Moda, em especial calçados.
 - Meio Ambiente.
@@ -120,6 +120,8 @@ Observação: Não são levados em conta os projetos onde eu dei estrela nos mes
 - Escrever histórias sobre o que ocorreu comigo.
 - Jogos de tabuleiros em geral.
 - Musica classica e trilhas sonoras, as vezes podendo escutar algum genero diferente, em especial Rock.
+- Criar histórias com base em fatos reais.
+- Gostaria de fazer muitas atividades que ainda naõ fiz e gostaria de conhecer.
 
 📫 Como me encontrar:
 
