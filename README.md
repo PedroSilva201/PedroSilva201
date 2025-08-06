@@ -27,7 +27,7 @@ Desenvolvedor Full Stack apaixonado por tecnologia, com experiência em diversas
 "Ajudar os outros e ser ajudado é a maior missão que possuo."  
 🚀 Sempre pronto para aprender, ensinar e colaborar.
 
-## Em dados sobre o meu Github
+## Estatisticas sobre o meu Github
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PedroSilva201&show_icons=true&theme=dracula" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSilva201&layout=compact&theme=dracula" width="48%" />
@@ -37,6 +37,20 @@ Desenvolvedor Full Stack apaixonado por tecnologia, com experiência em diversas
 
 ## Meus Próximos Passos
 ## Linha do Tempo sobre mim no Github
+- Criação da conta em 02 de Julho de 2020
+- Primeiro Repositório em 15 de Outubro de 2020
+- Primeiro Commit em 25 de Março de 2021
+- Tambem no mesmo dia primeira participação em projeto coletivo, o LMS APP, do API do 3º Semestre de 2021.
+- Primeiro Repositório com código em 29 de Março de 2021 com o POOC-L1 em Java na disciplina de Porgramação Orientada a Objetos, do 3º Periodo feito com base no video do professor Gerson.
+
+### DADOS POR ANO
+- Em 2020 foram apenas 2 contribuições ao todo
+- Em 2021 foram 89 contribuições ao todo
+- Em 2022 foram 320 contribuições ao todo
+- Em 2023 foram 453 contribuições ao todo
+- Em 2024 foram 298 contribuições ao todo
+- Em 2025 foram 287 contribuições ao todo (Com os dados baseados até o momento da edição do README em 06 de Agosto as 09:19:00)
+  
 ## Destaques de projetos estrelados
 
 
