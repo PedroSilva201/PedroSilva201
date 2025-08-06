@@ -36,12 +36,20 @@ Desenvolvedor Full Stack apaixonado por tecnologia, com experiência em diversas
 # Destaques 
 
 ## Meus Próximos Passos
+- Tenho pretenção de voltar ao mundo academico realizado um mestrado
+- Estou aprendendo diversas linguagens de programação bem como o desenvolvimento de projetos particulares para poder retornar ao mercado de trabalho.
+- Além disso outros entenddimentos e conceitos sobre tecnologia estão sendo aprimorados neste momento.
+- Contudo as mudanças podem forçar a eu traçar novos planos.
+  
 ## Linha do Tempo sobre mim no Github
 - Criação da conta em 02 de Julho de 2020
 - Primeiro Repositório em 15 de Outubro de 2020
 - Primeiro Commit em 25 de Março de 2021
 - Tambem no mesmo dia primeira participação em projeto coletivo, o LMS APP, do API do 3º Semestre de 2021.
 - Primeiro Repositório com código em 29 de Março de 2021 com o POOC-L1 em Java na disciplina de Porgramação Orientada a Objetos, do 3º Periodo feito com base no video do professor Gerson.
+- Ao decorrer do curso, comecei a participar com mais enfase de projetos coletivos a partir do segundo semestre, mas apenas no ano de 2021 isso ficou mais viavel.
+- Em 2023 foi o ano de maior numero de contrubuições, isso se deve principalmente a reta final da faculdade e os projetos de capacitação na empresa onde ue trabalhei.
+- Agora o mesmo está passando por uma reestruturação completa com a documentação em todos os gits.
 
 ### DADOS POR ANO
 - Em 2020 foram apenas 2 contribuições ao todo
@@ -52,6 +60,7 @@ Desenvolvedor Full Stack apaixonado por tecnologia, com experiência em diversas
 - Em 2025 foram 287 contribuições ao todo (Com os dados baseados até o momento da edição do README em 06 de Agosto as 09:19:00)
   
 ## Destaques de projetos estrelados
+Aqui serão apresentados alguns projetos em destaque, para este critério foram selecionados apenas os projetos que tiveram estrelas por parte de colegas e visitantes na minha página
 
 
 
