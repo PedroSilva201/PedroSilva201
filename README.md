@@ -45,6 +45,7 @@ Desenvolvedor Full Stack apaixonado por tecnologia, com experiência em diversas
   <img src="https://github-readme-stats.vercel.app/api?username=PedroSilva201&show_icons=true&theme=dracula" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSilva201&layout=compact&theme=dracula" width="48%" />
 </p>
+
 ![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)
 
 # Destaques 
