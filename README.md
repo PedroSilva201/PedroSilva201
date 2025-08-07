@@ -132,6 +132,7 @@ Observação: Não são levados em conta os projetos onde eu dei estrela nos mes
 - 🗣️ <a href="https://discord.com/channels/@me">Discord</a>
 - 📧 <a href="https://teams.live.com/l/invite/FAAhXN57SM_JkVjKQQ">Microsoft Teams/Skipe</a>
 - 🌐 <a href="https://pedro8639.wordpress.com/">Site em Wordpress</a>
+- ☎️ Número de telefone disponível mediante solicitação.
 
 ## Frases Motivacionais
 "Ajudar os outros e ser ajudado é a maior missão que possuo."  
