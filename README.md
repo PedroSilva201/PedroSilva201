@@ -5,14 +5,23 @@
 Desenvolvedor Full Stack apaixonado por tecnologia, com experiência em diversas linguagens e áreas como IA, segurança e ciência de dados.
 
 💻 Sou graduado em Análise e Desenvolvimento de Sistemas (FATEC/SJC - 2023), área correlata a Ciência da Computação, com forte base em desenvolvimento de sistemas, lógica computacional e trabalho com dados.
+
 🎓 Durante minha formação, tive disciplinas equivalentes às de cursos como Engenharia da Computação ou Sistemas de Informação, o que me permite atuar com segurança em contextos técnicos diversos.
+
 🔍 Em busca de recolocação no mercado de TI  
+
 💡 Interesses: Programação Full Stack, Inteligência Artificial, DevOps, Segurança, Ciência de Dados, Matemática Aplicada, Desing e mais.
+
 💻 Estágio em Iniciação Científica na TECSUS (Agosto de 2022– Março de 2024)  
+
 🛠️ Desenvolvendo projetos próprios com foco em IA generativa, banco de dados e interfaces web.
+
 🔧 Linguagens: Python, Java, JavaScript, TypeScript, Go, R, Ruby, SQL  
+
 🌐 Front-end: HTML, CSS, Angular, UI/UX  
+
 📦 Back-end: Node.js, Flask, Express, APIs REST  
+
 🛡️ Segurança da Informação | 🧠 Inteligência Artificial | 📊 Power BI | 📁 Git & GitHub
 
 ## 🛠️ Tecnologias & Ferramentas
