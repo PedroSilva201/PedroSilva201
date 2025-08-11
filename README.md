@@ -16,13 +16,13 @@ Desenvolvedor Full Stack apaixonado por tecnologia, com experiência em diversas
 
 🛠️ Desenvolvendo projetos próprios com foco em IA generativa, banco de dados e interfaces web.
 
-🔧 Linguagens: Python, Java, JavaScript, TypeScript, Go, R, Ruby, SQL  
+🔧 Linguagens: Python, Java, JavaScript, TypeScript, Go, R, Ruby, SQL, C
 
 🌐 Front-end: HTML, CSS, Angular, UI/UX  
 
 📦 Back-end: Node.js, Flask, Express, APIs REST  
 
-🛡️ Segurança da Informação | 🧠 Inteligência Artificial | 📊 Power BI | 📁 Git & GitHub
+🛡️ Segurança da Informação | 🧠 Inteligência Artificial | 📊 Power BI | 📁 Git & GitHub | 🌐 Wordpress
 
 ## 🛠️ Tecnologias & Ferramentas
 
