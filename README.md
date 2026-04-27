@@ -4,6 +4,8 @@
 
 Desenvolvedor Full Stack apaixonado por tecnologia, com experiência em diversas linguagens e áreas como IA, segurança e ciência de dados.
 
+💻 Atualmente sou aluno especial (máterias isoladas) no ICT-UNIFESP de São José dos Campos no programa de Pós-Graduação em Ciência da Computação neste semetsre correspondente a 2026-1.
+
 💻 Sou graduado em Análise e Desenvolvimento de Sistemas (FATEC/SJC - 2023), área correlata a Ciência da Computação, com forte base em desenvolvimento de sistemas, lógica computacional e trabalho com dados.
 
 🎓 Durante minha formação, tive disciplinas equivalentes às de cursos como Engenharia da Computação ou Sistemas de Informação, o que me permite atuar com segurança em contextos técnicos diversos.
@@ -22,7 +24,7 @@ Desenvolvedor Full Stack apaixonado por tecnologia, com experiência em diversas
 
 📦 Back-end: Node.js, Flask, Express, APIs REST  
 
-🛡️ Segurança da Informação | 🧠 Inteligência Artificial | 📊 Power BI | 📁 Git & GitHub | 🌐 Wordpress
+🛡️ Segurança da Informação | 🧠 Inteligência Artificial | 📊 Power BI | 📊 Datascience | 📁 Git & GitHub | 🌐 Wordpress
 
 ## 🛠️ Tecnologias & Ferramentas
 
