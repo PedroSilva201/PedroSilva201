@@ -105,7 +105,9 @@ Observação: Não são levados em conta os projetos onde eu dei estrela nos mes
 - Em 2022 foram 320 contribuições ao todo
 - Em 2023 foram 453 contribuições ao todo
 - Em 2024 foram 298 contribuições ao todo
-- Em 2025 foram 287 contribuições ao todo (Com os dados baseados até o momento da edição do README em 06 de Agosto as 09:19:00)
+- Em 2025 foram 482 contribuições ao todo 
+- Em 2026 foram 29 contribuições ao todo (Com os dados baseados até o momento da edição do README em 27 de Abril as 16:37:00 UTC -3)
+
 
 ### OUTROS DESTAQUES
 - Pair Extraordinaire Obtido em 01º de Setembro de 2022 com o Softtelie EhSoja (Projeto Coletivo).
