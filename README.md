@@ -4,7 +4,7 @@
 
 Desenvolvedor Full Stack apaixonado por tecnologia, com experiência em diversas linguagens e áreas como IA, segurança e ciência de dados.
 
-💻 Atualmente sou aluno especial (máterias isoladas) no ICT-UNIFESP de São José dos Campos no programa de Pós-Graduação em Ciência da Computação neste semetsre correspondente a 2026-1.
+💻 Fui aluno especial (matérias isoladas) no ICT-UNIFESP de São José dos Campos no programa de Pós-Graduação em Ciência da Computação no semestre de 2026-1 com aprovação em conceito B.
 
 💻 Sou graduado em Análise e Desenvolvimento de Sistemas (FATEC/SJC - 2023), área correlata a Ciência da Computação, com forte base em desenvolvimento de sistemas, lógica computacional e trabalho com dados.
 
